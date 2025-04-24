@@ -1,0 +1,40 @@
+.wpms-notice {
+    background: #fff;
+    border-left: 4px solid #ffb900;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin: 20px 0;
+    padding: 1px 12px;
+}
+
+.wpms-tools {
+    background: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.wpms-tool-section {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.wpms-tool-section:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#wpms-mapping-interface {
+    margin-top: 15px;
+}
+
+#wpms-mapping-interface select {
+    min-width: 200px;
+    margin-right: 10px;
+}
+
+#wpms-mapping-interface button {
+    margin-top: 10px;
+} 
